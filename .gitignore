@@ -1,0 +1,9 @@
+/venv
+/bin
+.idea
+*.py[co]
+*.pyc
+*.pot
+__pycache__
+db.sqlite3
+/lib
